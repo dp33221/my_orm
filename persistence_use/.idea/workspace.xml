@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec8eff64-07a4-434b-87d0-c486774879d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/persistence.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/src/main/java/build/XmlMapperBuild.java" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/src/main/java/build/XmlMapperBuild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/src/main/java/excutor/DefaultExcutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/src/main/java/excutor/DefaultExcutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/src/main/java/excutor/Excutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/src/main/java/excutor/Executor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/classes/build/XmlMapperBuild.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/classes/build/XmlMapperBuild.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/classes/config/MappedStatement$MappedStatementBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/classes/config/MappedStatement$MappedStatementBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/classes/config/MappedStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/classes/config/MappedStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/classes/excutor/DefaultExcutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/classes/excutor/DefaultExcutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/classes/excutor/Excutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/classes/sqlsession/DefaultSqlSession$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/classes/sqlsession/DefaultSqlSession$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence/target/classes/sqlsession/DefaultSqlSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence/target/classes/sqlsession/DefaultSqlSession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence_use.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence_user/target/classes/mapper/PaymentChannelMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence_user/target/classes/mapper/PaymentChannelMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence_user/target/classes/pojo/PaymentChannel$PaymentChannelBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence_user/target/classes/pojo/PaymentChannel$PaymentChannelBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistence_user/target/classes/pojo/PaymentChannel.class" beforeDir="false" afterPath="$PROJECT_DIR$/persistence_user/target/classes/pojo/PaymentChannel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../简答题/作业.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../简答题/作业.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../讲解.mp4.zip" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../develop/apache-maven-3.6.3/repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../develop/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../../develop/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k5PVdbluvNdkSMAV0oVqUpottr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/persistence_user/src/main" />
+      <recent name="$PROJECT_DIR$/persistence_user/src/main/java" />
+      <recent name="$PROJECT_DIR$/persistence_user/src/main/resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="utils" />
+      <recent name="sqlsession" />
+      <recent name="config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.test.test1">
+    <configuration name="test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="persistence_user" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="persistence_user" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="persistence_user" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="persistence_user" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="persistence_user" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.test1" />
+        <item itemvalue="JUnit.test.test5" />
+        <item itemvalue="JUnit.test.test3" />
+        <item itemvalue="JUnit.test.test4" />
+        <item itemvalue="JUnit.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec8eff64-07a4-434b-87d0-c486774879d2" name="Default Changelist" comment="" />
+      <created>1604987503794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604987503794</updated>
+      <workItem from="1604987511872" duration="5702000" />
+      <workItem from="1605010051478" duration="17643000" />
+      <workItem from="1605247040499" duration="11760000" />
+      <workItem from="1609903875792" duration="3164000" />
+      <workItem from="1609986389733" duration="579000" />
+      <workItem from="1609997562363" duration="598000" />
+      <workItem from="1610006640468" duration="1193000" />
+      <workItem from="1610363877439" duration="863000" />
+      <workItem from="1610429908411" duration="2314000" />
+      <workItem from="1610453646747" duration="1714000" />
+      <workItem from="1610689105660" duration="2185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/persistence/src/main/java/excutor/DefaultExcutor.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/persistence/src/main/java/excutor/DefaultExcutor.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/persistence/src/main/java/sqlsession/DefaultSqlSession.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
